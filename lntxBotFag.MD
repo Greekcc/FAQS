@@ -18,7 +18,7 @@ Link: https://t.me/lntxbot
 
 Αυτό δημιουργεί ενα invoice για 100 satoshi, κάνεις copy-paste το invoice στο lightning wallet σου και στέλνεις τα satoshi απο εκεί.
 
--Βήμα 3: Για να σου στείλει κάποιο μελος ή για να στείλεις και εσύ σε κάποιο μέλος, πηγαίνεις στο group της ομάδας (Greek Cryptocurrency Community) κανεις reply σε κάποιο μήνυμα του μέλους που θέλεις να στείλεις και γράφεις /tip@lntxbot (αριθμός satoshi)
+- Βήμα 3: Για να σου στείλει κάποιο μέλος ή για να στείλεις και εσύ σε κάποιο μέλος, πηγαίνεις στο group της ομάδας (Greek Cryptocurrency Community) κάνεις reply σε κάποιο μήνυμα του μέλους που θέλεις να στείλεις και γράφεις /tip@lntxbot (αριθμός satoshi)
 
 Παραδειγμα: /tip@lntxbot 100
 
