@@ -3,7 +3,7 @@
 Link: https://t.me/lntxbot
 Twitter: https://twitter.com/lntxbot
 
-Το lntxbot είναι ένα πορτοφόλι Lighting για το Telegram. Πρόκειται για λύση στην οποία τα funds γίνονται managed μέσω Telegram και το Lighting Channel το διαχειρίζεται η ομάδα πίσω από το BlueWallet.
+Το lntxbot είναι ένα πορτοφόλι Lightning για το Telegram. Πρόκειται για λύση στην οποία τα funds γίνονται managed μέσω Telegram και το Lighting Channel το διαχειρίζεται η ομάδα πίσω από το BlueWallet.
 
 Όπως καταλαβαίνετε, πρόκειται για ένα πορτοφόλι χαμηλής ασφαλείας, που η χρήση του θα είναι αποκλειστικά για μικροποσά, καθώς δεν υπάρχει καμία εγγύηση λειτουργικότητας.
 
